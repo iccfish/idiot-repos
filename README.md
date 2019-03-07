@@ -7,3 +7,10 @@
 [ccyyycy/ycy](https://github.com/ccyyycy/ycy)|`技术无关`|如果杨超越会上GitHub的话，估计你们应该都不会挂科了
 [0x401/yyyl](https://github.com/0x401/yyyl/)|`技术无关`|毛主席说过,搞个人领袖崇拜是要不得的
 [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress)|`生活相关`|这都不算闲的蛋疼？
+
+
+# 提交规范
+
+- 按照表格格式填写，需要填写地址、类别和理由
+- 标题必须加链接，仓库名必须完整（格式：`账户/仓库名`）
+- 禁止人参攻击
