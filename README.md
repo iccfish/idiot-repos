@@ -9,6 +9,7 @@
 [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress)|程序猿女装？？|这都不算闲的蛋疼？
 [996icu/996.ICU](https://github.com/996icu/996.ICU)|皮996|你们还有时间star这个仓库并fire issue的，上班摸鱼996没毛病
 [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB)|???|搞这玩意儿有啥意思？？
+[Y1ran/996.Law](https://github.com/Y1ran/996.Law)|???|Github是用来搞这些东西的地方吗？？
 
 
 # 提交规范
